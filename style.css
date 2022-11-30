@@ -37,3 +37,7 @@ h1 {
   text-align: center;
   color: rgb(161, 161, 161);
 }
+
+.ingredients {
+  text-align: left;
+}
