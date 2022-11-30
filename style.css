@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+header {
+  margin: auto;
+  text-align: center;
+}
+
+#logo {
+  width: 15em;
+}
+
+.under-logo {
+  background-color: rgba(253, 251, 241, 1);
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top: 1px solid rgb(255, 224, 71);
+}
+
+#textunderlogo {
+  color: rgba(16, 119, 119, 1);
+}
