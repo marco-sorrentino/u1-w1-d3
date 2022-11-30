@@ -71,3 +71,9 @@ ul {
 li {
   margin-bottom: 1em;
 }
+
+#videorecipe {
+  width: 720px;
+  border-radius: 20px;
+  box-shadow: 7px 10px 18px rgba(0, 0, 0, 0.063);
+}
