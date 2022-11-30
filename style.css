@@ -23,3 +23,17 @@ header {
 #textunderlogo {
   color: rgba(16, 119, 119, 1);
 }
+
+main {
+  justify-content: center;
+  display: flex;
+}
+
+h1 {
+  text-align: center;
+}
+
+.copyright {
+  text-align: center;
+  color: rgb(161, 161, 161);
+}
