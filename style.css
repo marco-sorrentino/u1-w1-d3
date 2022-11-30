@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: "Montserrat", sans-serif;
 }
 
 header {
@@ -40,4 +41,33 @@ h1 {
 
 #nonumber {
   list-style-type: none;
+}
+
+.colorslink {
+  color: rgba(16, 119, 119, 1);
+}
+
+.links p {
+  color: rgba(181, 70, 15, 1);
+}
+
+.links {
+  border-left: 2px solid rgb(255, 224, 71);
+}
+
+.marginleft {
+  margin-left: 2em;
+}
+
+.Ingredients-titles {
+  font-weight: 600;
+  font-size: 0.8em;
+}
+
+ul {
+  margin-bottom: 2em;
+}
+
+li {
+  margin-bottom: 1em;
 }
